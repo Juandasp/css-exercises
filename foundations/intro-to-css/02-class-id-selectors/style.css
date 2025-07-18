@@ -1,0 +1,21 @@
+.paragraph {
+    background-color: rgb(228, 157, 157);
+    font-size: 24px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: rgb(88, 214, 88);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler {
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
